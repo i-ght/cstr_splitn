@@ -1,4 +1,4 @@
-#include "splitstr_internal.h"
+#include "splitstrn_internal.h"
 
 enum Result splitstrn(
     const char input[],

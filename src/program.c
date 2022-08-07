@@ -4,7 +4,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-#include "splitstr.h"
+#include "splitstrn.h"
 
 #define ARRAY_SIZE(a) (sizeof(a) / sizeof(*a))
 

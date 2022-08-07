@@ -1,7 +1,7 @@
 #ifndef _STR_DIVIDE_INTERNAL_H_
 #define _STR_DIVIDE_INTERNAL_H_
 
-#include "splitstr.h"
+#include "splitstrn.h"
 
 enum Result _splitstrn(
     const char input[],

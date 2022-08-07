@@ -3,7 +3,7 @@
 #include <stdbool.h>
 #include <stdint.h>
 
-#include "splitstr_internal.h"
+#include "splitstrn_internal.h"
 
 
 enum {ONE_GIGABYTE=1073741824};
