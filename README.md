@@ -1,1 +1,1 @@
-splitn from rust, written in C
+tried to write splitn from rust in C
